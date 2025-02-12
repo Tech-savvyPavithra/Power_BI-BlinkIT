@@ -1,10 +1,10 @@
 Blinkit Power BI Project: Unlocking Business Insights
 
-📌 Project Overview:
+Project Overview:
 
 This Power BI project analyzes Blinkit’s sales data to generate actionable insights, enhancing decision-making for India's leading last-minute delivery platform. The interactive dashboard provides a comprehensive view of sales performance, customer preferences, and outlet efficiency.
 
-🔍 Key Analytical Focus Areas:
+Key Analytical Focus Areas:
 
 ● Sales Performance: Analysis of total and average sales by outlet type, size, and location.
 
@@ -12,7 +12,7 @@ This Power BI project analyzes Blinkit’s sales data to generate actionable ins
 
 ● Product & Regional Trends: Performance analysis of product categories (e.g., snacks, dairy) and regional sales trends across Tier 1, Tier 2, and Tier 3 cities.
 
-📊 Actionable Insights Derived:
+Actionable Insights Derived:
 
 ● Outlet Efficiency: Medium-sized outlets contributed the highest revenue, highlighting their crucial role in growth.
 
@@ -20,7 +20,7 @@ This Power BI project analyzes Blinkit’s sales data to generate actionable ins
 
 ● Regional Growth: Tier 3 cities accounted for the largest sales share, suggesting significant market expansion potential.
 
-🖥️ Interactive Dashboard Features:
+Interactive Dashboard Features:
 
 ● Filter by Location Type: Tier 1, Tier 2, and Tier 3 city breakdowns.
 
@@ -28,13 +28,13 @@ This Power BI project analyzes Blinkit’s sales data to generate actionable ins
 
 ● Product Category Focus: Sales analysis for dairy, snacks, frozen foods, and more.
 
-🎨 Design & Branding:
+Design & Branding:
 
 ● Aligned with Blinkit’s brand identity using a yellow, green, and black color scheme.
 
 ● Professional and intuitive UI for seamless business presentations.
 
-🚀 Business Impact:
+Business Impact:
 
 ● Optimized Inventory Management: Helps Blinkit stock products efficiently based on sales trends.
 
@@ -42,7 +42,7 @@ This Power BI project analyzes Blinkit’s sales data to generate actionable ins
 
 ● Improved Decision-Making: Enables leadership to make informed, data-backed business choices.
 
-🔧 Skills & Tools Used:
+Skills & Tools Used:
 
 ● Microsoft Power BI: Data visualization and dashboard creation.
 
